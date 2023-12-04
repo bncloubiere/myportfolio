@@ -11,7 +11,7 @@ redirect_from:
 
 # About
 
-<!--author-->
+Bruno Loubiere
 
 ## Hydejack
 
