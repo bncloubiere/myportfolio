@@ -51,8 +51,8 @@ author:
 menu:
   - title:             Projects
     url:               /projects/
-  - title:             CV
-    url:               /resume/
+  - title:             My CV
+    url:               /mycv/
   - title:             About
     url:               /about/
 
