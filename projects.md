@@ -1,11 +1,8 @@
 ---
-layout: about
-image: /assets/img/blog/hydejack-9.jpg
-description: >
-  This page collates links to individual projects
-hide_description: true
-redirect_from:
-  - /download/
+layout:  projects
+title:   Portfolio Projects
+show_collection: projects
+featured: false
 ---
 
 # Projects samples
