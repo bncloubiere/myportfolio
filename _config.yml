@@ -25,14 +25,13 @@ title:                 My Portfolio
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  The website of Bruno Loubiere to display portfolio and resume for Data Science and Data Analysis expertise
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Nerd | Scientist| Data enthusiast
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Data Scienes, Data Analysis]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -49,7 +48,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Projects
+  - title:             Projects Portfolio
     url:               /projects/
   - title:             My CV
     url:               /mycv/
