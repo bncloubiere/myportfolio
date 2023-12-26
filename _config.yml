@@ -28,7 +28,7 @@ description:           >
   The website of Bruno Loubiere to display portfolio and resume for Data Science and Data Analysis expertise
 
 # A shorter description for the sidebar.
-tagline:               Nerd + Scientist + Data enthusiast
+tagline:               Nerd, Scientist, and Data enthusiast
 
 # A list of keywords for your blog
 keywords:              [Data Scienes, Data Analysis]
@@ -48,7 +48,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Projects Portfolio
+  - title:             Projects
     url:               /projects/
   - title:             My CV
     url:               /mycv/
