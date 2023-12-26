@@ -7,10 +7,8 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:             |
-    An aspiring Data Science enthusiast looking to get my first role in the field
-    
-    Open `_data/authors.yml` to edit this text.
+  about:          
+    Written by Bruno Loubiere
 
   # This photo will be used in the about section
   picture:
