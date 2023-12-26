@@ -1,7 +1,7 @@
 ---
 layout:      project
-title:       Hyde v2*
-date:        2 Jan 2014
+title:       Portfolio Projects
+date:        26 December 2023
 image:
   path:       /assets/img/projects/hyde-v2@0,25x.jpg
   srcset:
@@ -13,7 +13,7 @@ description: >
   Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme.
   It's based on [Poole](http://getpoole.com), the Jekyll butler.
 links:
-  - title:   Demo
+  - title:   Test
     url:     http://hyde.getpoole.com
   - title:   Source
     url:     https://github.com/poole/hyde
