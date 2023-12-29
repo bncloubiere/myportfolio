@@ -9,6 +9,7 @@ image:
     200w: /assets/wildfire_france/wildfire_image_w200.jpg
 description: >
   This is a small project that looked at some data about wildfires in France between 2012 and 2022
+  Credit: Thibaud Moritz/AFP via Getty Images
 sitemap: false
 hide_last_modified: true
 ---
