@@ -159,7 +159,6 @@ defaults:
         type:          WebPage
 
 kramdown:
-  input: GFM
   math_engine:         mathjax
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
