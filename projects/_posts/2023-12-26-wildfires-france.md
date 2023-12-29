@@ -55,5 +55,12 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 
 ## Results and Observations
 
-test text.
-{:.lead}
+this is a text to verifylocation 1
+![Medium image](/assets/wildfire_france/wildfire_image_w400.jpg){:style="float: right"}
+
+
+![Medium image](/assets/wildfire_france/wildfire_image_w400.jpg){:style="float: right"}
+this is a text to verifylocation 2
+
+
+test text.{:.lead}
