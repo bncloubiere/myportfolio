@@ -58,5 +58,12 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 This is a text test to look at location formating {:.lead}
 ![medium test image](/assets/wildfire_france/wildfire_image_w400.jpg) {:style="display:block; margin-left:auto; margin-right:auto"}
 
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+<div>
+<img align="left" width="400" src="/assets/wildfire_france/wildfire_image_w400.jpg">
 <p>text test 2</p>
+</div>
+
+<div>
+<img align="right" width="400" src="/assets/wildfire_france/wildfire_image_w400.jpg">
+<p>text test 3</p>
+</div>
