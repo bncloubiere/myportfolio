@@ -55,7 +55,12 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 
 ## Results and Observations
 
-<div style="float: right">
-  ![Medium image](/assets/wildfire_france/wildfire_image_w400.jpg "Wildfires in France")
-  This is a test text to look for location
+<div>
+  <img align="left" width="400" src="https://github.com/bncloubiere/myportfolio/blob/main/assets/wildfire_france/wildfire_image_w400.jpg">
+  <p>This is a text test to look at location formating</p>
+</div>
+
+<div>
+  <img align="right" width="400"   src="https://github.com/bncloubiere/myportfolio/blob/main/assets/wildfire_france/wildfire_image_w400.jpg">
+  <p>This is a text test to look at location formating</p>
 </div>
