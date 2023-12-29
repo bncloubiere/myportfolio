@@ -56,11 +56,11 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 ## Results and Observations
 
 this is a text to verifylocation 1
-![Medium image](/assets/wildfire_france/wildfire_image_w400.jpg)
-{:style="float: right"}
----
 ![Medium image](/assets/wildfire_france/wildfire_image_w400.jpg){:style="float: right"}
-this is a text to verifylocation 2
+---
+![Medium image](/assets/wildfire_france/wildfire_image_w400.jpg){:style="float: left"}
+this is a text to verifylocation 2.
+{:style="float: right"}
 ---
 
 test text.
