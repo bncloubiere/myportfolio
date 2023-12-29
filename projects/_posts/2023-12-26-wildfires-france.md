@@ -55,8 +55,14 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 
 ## Results and Observations
 
+{% include img-right.html path="/assets/wildfire_france/wildfire_image_w400.jpg" title="This is the title on left" description="Some more text that will appear to the right of the image number 1." %}
+
+{% include img-left.html path="/assets/wildfire_france/wildfire_image_w400.jpg" title="This is the title on right" description="Some more text that will appear to the left of the image number 1." %}
+
+---
 this is a text to verifylocation 1
 ![Medium image](/assets/wildfire_france/wildfire_image_w400.jpg){:style="float: right"}
+---
 ---
 ![Medium image](/assets/wildfire_france/wildfire_image_w400.jpg){:style="float: left"}
 this is a text to verifylocation 2.
