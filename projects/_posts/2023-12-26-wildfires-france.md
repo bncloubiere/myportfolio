@@ -55,3 +55,7 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 
 ## Results and Observations
 
+<div class="box">
+   <img src="/assets/wildfire_france/wildfire_image_w400.jpg" alt="Medium image">
+   <p>This is a test to see text position</p>
+</div>
