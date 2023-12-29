@@ -55,10 +55,9 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 
 ## Results and Observations
 
-<div>
-  <img align="left" width="400" src="https://github.com/bncloubiere/myportfolio/blob/main/assets/wildfire_france/wildfire_image_w400.jpg">
-  <p>This is a text test to look at location formating</p>
-</div>
+This is a text test to look at location formating {:.lead}
+![medium test image](/assets/wildfire_france/wildfire_image_w400.jpg) {:style="display:block; margin-left:auto; margin-right:auto"}
+
 
 <div>
   <img align="right" width="400"   src="https://github.com/bncloubiere/myportfolio/blob/main/assets/wildfire_france/wildfire_image_w400.jpg">
