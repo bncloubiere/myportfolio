@@ -59,6 +59,22 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 title="Number of wildfires per year" 
 description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
 
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w800.jpg" alt="test image" 
+title="Number of wildfires per year 800" 
+description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
+
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.jpg" alt="test image" 
+title="Number of wildfires per year 600" 
+description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
+
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w400.jpg" alt="test image" 
+title="Number of wildfires per year 400" 
+description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
+
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w200.jpg" alt="test image" 
+title="Number of wildfires per year 200" 
+description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
+
 {% include img-left.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.jpg" alt="test 2"
 title="This is the title on right" 
 description="Some more text that will appear to the right of the image number 2." %}
