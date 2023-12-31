@@ -79,6 +79,8 @@ description="Based on trendline, the number of wildfires in France has doubled i
 title="This is the title on right" 
 description="Some more text that will appear to the right of the image number 2." %}
 
+---
+
 {% include img-left-test.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.jpg" alt="test 2"
 title="This is the title on right" 
 description="Some more text that will appear to the right of the image number 2." %}
