@@ -55,9 +55,9 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 
 ## Results and Observations
 
-{% include img-right.html path="/myportfolio/assets/wildfire_france/france_wildfires_yearly_w600.png" alt="test image" 
-title="Nymber of wildfires per year" 
-description="Based on trendline, the number of wildfires in france has doubled in 2022 comparedto 2012" %}
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/france_wildfires_yearly_w600.png" alt="test image" 
+title="Number of wildfires per year" 
+description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
 
 {% include img-left.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.jpg" alt="test 2"
 title="This is the title on right" 
