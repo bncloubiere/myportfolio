@@ -1,13 +1,11 @@
-<div>
-   <h3 ><center>{{ include.title }}</center></h3>
-</div>
 <div class="container">
-  <div class="row">
-    <div class="col col-md-4">
-      {{ include.description | markdownify }}
-    </div>
-    <div class="col ol-md-8">
-      <img src="{{ include.path }}" alt="{{ include.alt }}">
-    </div>
-  </div>
+   <h3><center>{{ include.title }}</center></h3>
+   <div class="row">
+      <div class="col-sm-4">
+         <p>{{ include.description | markdownify }}</p>
+      </div>
+      <div class="col-sm-8">
+         <img src="{{ include.path }}" alt="{{ include.alt }}">
+      </div>
+   </div>
 </div>
