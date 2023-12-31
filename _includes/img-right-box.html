@@ -1,12 +1,12 @@
 <div>
    <h3 ><center>{{ include.title }}</center></h3>
 </div>
-<div class="container">
+<div class="container-fluid">
   <div class="row">
-    <div class="col-4">
+    <div class="col-6 col-sm-4">
       {{ include.description | markdownify }}
     </div>
-    <div class="col-8">
+    <div class="col-6 col-sm-8">
       <img src="{{ include.path }}" alt="{{ include.alt }}" width="600px" />
     </div>
 </div>
