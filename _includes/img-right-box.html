@@ -4,7 +4,7 @@
 <div class="container-fluid">
   <div class="row align-items-start">
     <div class="col-6 col-sm-4">
-      {{ include.description | markdownify }}
+      <p class="text-sm-left">{{ include.description | markdownify }} </p>
     </div>
     <div class="col-6 col-sm-8">
       <img src="{{ include.path }}" alt="{{ include.alt }}" width="600px" />
