@@ -1,8 +1,9 @@
 <h3><center>{{ include.title }}</center></h3>
 <div style="clear: both;">
+  <div>
+    <p>{{ include.description | markdownify }}</p>
   <div style="float: left; margin-right: 1em;">
     <img src="{{ include.path }}" alt="{{ include.alt}}" width="600">
-    {{ include.description | markdownify }}
   </div>
 </div>
-<div style="clear: left;"><Br/></div>
+<div style="clear: both;"><Br/></div>
