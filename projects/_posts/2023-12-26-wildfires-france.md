@@ -13,10 +13,6 @@ description: >
 sitemap: false
 hide_last_modified: true
 ---
-<h1 align="center">
-An Analysis of Forest Fires in France Between 2012 and 2022
-</h1>
-
 ## Introduction
 Welcome to my first project published on my portfolio website! To inaugurate, I decided to use my skills in data analysis to learn more about a topic that is important to me: wildfires in France over the last decade.
 
