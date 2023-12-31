@@ -13,6 +13,7 @@ description: >
 sitemap: false
 hide_last_modified: true
 ---
+
 ## Introduction
 Welcome to my first project published on my portfolio website! To inaugurate, I decided to use my skills in data analysis to learn more about a topic that is important to me: wildfires in France over the last decade.
 
@@ -51,19 +52,19 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 
 ## Results and Observations
 
-{% include img-right-box.html path="/myportfolio/assets/wildfire_france/france_wildfires_yearly_w600.png" alt="test image" 
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/france_wildfires_yearly_w600.jpg" alt="test image" 
 title="Number of wildfires per year" 
 description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
 
-{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w800.png" alt="test image" 
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w800.jpg" alt="test image" 
 title="Number of wildfires per year 800" 
 description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
 
-{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.png" alt="test image" 
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.jpg" alt="test image" 
 title="Number of wildfires per year 600" 
 description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
 
-{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w400.png" alt="test image" 
+{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w400.jpg" alt="test image" 
 title="Number of wildfires per year 400" 
 description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
 
