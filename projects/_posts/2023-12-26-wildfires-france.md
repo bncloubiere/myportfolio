@@ -52,10 +52,6 @@ This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatia
 
 ## Results and Observations
 
-{% include img-right-box.html path="/myportfolio/assets/wildfire_france/france_wildfires_yearly_w600.jpg" alt="test image" 
-title="Number of wildfires per year" 
-description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
-
 {% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w800.jpg" alt="test image" 
 title="Number of wildfires per year 800" 
 description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
@@ -64,13 +60,7 @@ description="Based on trendline, the number of wildfires in France has doubled i
 title="Number of wildfires per year 600" 
 description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
 
-{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w400.jpg" alt="test image" 
-title="Number of wildfires per year 400" 
-description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
-
-{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w200.jpg" alt="test image" 
-title="Number of wildfires per year 200" 
-description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
+some text to test
 
 {% include img-left-test.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.jpg" alt="test 2"
 title="This is the title on right" 
