@@ -27,6 +27,7 @@ I have the gut feeling that the frequency of wildfires is increasing over the ye
 
 To check if my instinct is correct, I decided to look at unbiased raw data across the mainland French territories.
 
+
 ## Data preparation
 
 ### Source of the data
@@ -42,6 +43,7 @@ The polygons needed for the geospatial localisations of departments in France, a
 
 Note: the two French territories in Corsica (2A and 2B) were manually removed from the geojson in order to focus on the French mainland only.
 
+
 ### Data
 
 The various steps taken to clean the data and prepare it for analysis are presented in the Jupyter Notebook [here]. \
@@ -50,18 +52,20 @@ This includes: loading and manipulating dataframes with pandas, data cleaning, a
 The data analysis itself and SQL queries raised are referenced in the following [notebook].\
 This includes: SQL queries, data visualisation (Matplotlib, seasborn), geospatial analysis with folium.
 
+
 ## Results and Observations
 
 {% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w800.jpg" alt="test image" 
-title="Number of wildfires per year 800" 
-description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
+title="Total number of wildfires" 
+description="According to the data, there was XXX wildfires in France between 2012 and 2022." %}
 
-{% include img-right-box.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.jpg" alt="test image" 
-title="Number of wildfires per year 600" 
-description="Based on trendline, the number of wildfires in France has doubled in 2022 compared to 2012" %}
 
-some text to test
+{% include img-left-box.html path="/assets/wildfire_france/france_wildfires_yearly_w600.png" alt="annual trend of wildfires" 
+title="Number of wildfires in France per year" 
+description="According to the trendline, the number of wildfires has increasd between 2012 and 2022. It has doubled on average." %}
 
-{% include img-left-test.html path="/myportfolio/assets/wildfire_france/wildfire_image_w600.jpg" alt="test 2"
-title="This is the title on right" 
-description="Some more text that will appear to the right of the image number 2." %}
+
+## Conclusions
+
+
+
