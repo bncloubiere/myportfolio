@@ -9,7 +9,7 @@ image:
     200w: /assets/netflix_content/netflix_logo_w200.jpg
 description: >
   A analysis of streaming content on Netflix in 2022
-  Credit image:
+  Credit image: Mateusz Slodkowski/SOPA Images/LightRocket via Getty Images
 sitemap: false
 hide_last_modified: true
 ---
