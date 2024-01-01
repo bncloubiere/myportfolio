@@ -2,11 +2,11 @@
 layout: post
 title: Netflix content 
 image:
-  path: /assets/wildfire_france/wildfire_image.jpg
+  path: /assets/netflix_content/netflix_logo_full.jpg
   scrset:
-    800w: /assets/wildfire_france/wildfire_image_w800.jpg
-    400w: /assets/wildfire_france/wildfire_image_w400.jpg
-    200w: /assets/wildfire_france/wildfire_image_w200.jpg
+    800w: /assets/netflix_content/netflix_logo_w800.jpg
+    400w: /assets/netflix_content/netflix_logo_w400.jpg
+    200w: /assets/netflix_content/netflix_logo_w200.jpg
 description: >
   A analysis of streaming content on Netflix in 2022
   Credit image:
