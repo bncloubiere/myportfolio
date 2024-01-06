@@ -22,7 +22,11 @@ Welcome to my first project published on my portfolio website! To inaugurate, I 
 
 As a French national, I grew up in the North-East part of France, where the climate was pretty close to the one in the UK. I was in the lucky position to have family to visit every years in the South of France, and more precisely in what is now known as the Occitanie region.
 
-Even when I was a child, I remember that wildfires were a fairly common occurence. A topic which I could hear on TV during the news, but not one I could directly oberserve very often.
+<center> ![Occitanie region](assets/wildfire_france/Occitanie_in_France_2016.png)
+  Occitanie region in France. Source: [Wikipedia](https://en.wikipedia.org/wiki/Occitania_(administrative_region)){:.figcaption}
+</center>
+
+As a child, I remember that wildfires were a fairly common occurence. A topic which I could hear on TV during the news, but not one I could directly oberserve very often.
 
 As an adult however, every time I visit the South of France, I am struck by the number of wilfires occuring and by the scarred landscape of burnt woods and bushlands.
 
