@@ -16,4 +16,4 @@ hide_last_modified: true
 
 ## Introduction
 
-{% include img-right-box.html path="/assets/img/images/pngtree-under-construction-png-image_8741247.png" alt="under construction" title="" description="Coming soon" %}
+{% include img-right-box.html path="/myportfolio/assets/img/images/pngtree-under-construction-png-image_8741247.png" alt="under construction" title="" description="Coming soon" %}
